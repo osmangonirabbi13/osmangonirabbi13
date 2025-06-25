@@ -30,3 +30,17 @@
    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
+
+### 🚀 Quick Stats
+<p align="center">
+<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=osmangonirabbi13&show_icons=true&line_height=21&theme=react" alt="osmangonirabbi13's Github Stats" />
+  <img width="400" height="155" align="center" 
+     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=osmangonirabbi13&css&theme=react&line_height=27&hide=handlebars&layout=compact" />  
+</p>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=osmangonirabbi13) 
+
+
+
