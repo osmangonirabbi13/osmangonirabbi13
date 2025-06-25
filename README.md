@@ -34,8 +34,8 @@
 
 ### 🚀 Quick Stats
 <p align="center">
-<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=osmangonirabbi13&show_icons=true&line_height=21&theme=react" alt="osmangonirabbi13's Github Stats" />
-  <img width="400" height="155" align="center" 
+<img width="400" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=osmangonirabbi13&show_icons=true&line_height=21&theme=react" alt="osmangonirabbi13's Github Stats" />
+  <img width="370" height="140" align="center" 
      src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=osmangonirabbi13&css&theme=react&line_height=27&hide=handlebars&layout=compact" />  
 </p>
 
