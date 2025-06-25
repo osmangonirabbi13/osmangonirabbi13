@@ -1,6 +1,13 @@
 <img src="https://github.com/osmangonirabbi13/osmangonirabbi13/blob/main/cover-image.png" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Osman Goni Rabbi </h1>
+
+# 💫 About Me:
+
+As a proficient MERN Stack Developer, I specialize in crafting robust and scalable web applications. My expertise spans across MongoDB, Express.js, React, and Node.js, enabling me to deliver comprehensive full-stack solutions.
+
+##
+
 - 🔭 I’m currently working on [ Food Donation Website ] - (https://foodshare01.web.app/) <br/>
 
 - 🌱 I’m currently learning **Web Development And Programming**
