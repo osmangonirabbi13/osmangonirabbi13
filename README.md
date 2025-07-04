@@ -2,13 +2,15 @@
 
 <h1 align="center">Hi 👋, I'm Osman Goni Rabbi </h1>
 
+![Profile Views](https://komarev.com/ghpvc/?username=osmangonirabbi13) 
+
 # 💫 About Me:
 
 As a proficient MERN Stack Developer, I specialize in crafting robust and scalable web applications. My expertise spans across MongoDB, Express.js, React, and Node.js, enabling me to deliver comprehensive full-stack solutions.
 
 ##
 
-- 🔭 I’m currently working on [ Food Donation Website ] - (https://foodshare01.web.app/) <br/>
+- 🔭 I’m currently working on [ QuickDrop Courier Website ] - (https://profast-courier.web.app/) <br/>
 
 - 🌱 I’m currently learning **Web Development And Programming**
 - 💬 Ask me about **Web Development**
@@ -48,18 +50,19 @@ As a proficient MERN Stack Developer, I specialize in crafting robust and scalab
 </p>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=osmangonirabbi13) 
 
 
 ## 🗂️ Highlight Projects
+
+<a href="https://github.com/osmangonirabbi13/QuickDrop-Courier-client">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=osmangonirabbi13&repo=QuickDrop-Courier-client&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="osmangonirabbi13" />
+</a>
 
 <a href="https://github.com/osmangonirabbi13/Community-Food-Share">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=osmangonirabbi13&repo=Community-Food-Share&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="osmangonirabbi13" />
 </a>
 
-<a href="https://github.com/osmangonirabbi13/freelance-task-marketplace-client-side">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=osmangonirabbi13&repo=freelance-task-marketplace-client-side&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="osmangonirabbi13" />
-</a>
+
 
 ## 🏆 GitHub Trophies
 
