@@ -49,7 +49,7 @@ As a proficient MERN Stack Developer, I specialize in crafting robust and scalab
   <img width="370" height="140" align="center" 
      src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=osmangonirabbi13&css&theme=react&line_height=27&hide=handlebars&layout=compact" />  
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=osmangonirabbi13&theme=github-dark-dimmed&card_width=400&card_height=150)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=osmangonirabbi13&theme=react&card_width=450&card_height=150)](https://git.io/streak-stats)
 </p>
 
 
