@@ -29,6 +29,7 @@ As a proficient MERN Stack Developer, I specialize in crafting robust and scalab
   <a href="https://www.instagram.com/osman_goni009/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="https://www.instagram.com/osman_goni009/" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -47,13 +48,14 @@ As a proficient MERN Stack Developer, I specialize in crafting robust and scalab
 <img width="400" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=osmangonirabbi13&show_icons=true&line_height=21&theme=react" alt="osmangonirabbi13's Github Stats" />
   <img width="370" height="140" align="center" 
      src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=osmangonirabbi13&css&theme=react&line_height=27&hide=handlebars&layout=compact" />  
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=osmangonirabbi13&theme=github-dark-dimmed&card_width=400&card_height=150)](https://git.io/streak-stats)
 </p>
 
 
 
 
 ## 🗂️ Highlight Projects
-
 <a href="https://github.com/osmangonirabbi13/QuickDrop-Courier-client">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=osmangonirabbi13&repo=QuickDrop-Courier-client&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="osmangonirabbi13" />
 </a>
@@ -61,6 +63,12 @@ As a proficient MERN Stack Developer, I specialize in crafting robust and scalab
 <a href="https://github.com/osmangonirabbi13/Community-Food-Share">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=osmangonirabbi13&repo=Community-Food-Share&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="osmangonirabbi13" />
 </a>
+
+
+
+
+
+
 
 
 
