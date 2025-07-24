@@ -12,7 +12,7 @@ As a proficient MERN Stack Developer, I specialize in crafting robust and scalab
 
 - 🔭 I’m currently working on [ QuickDrop Courier Website ] - (https://profast-courier.web.app/) <br/>
 
-- 🌱 I’m currently learning **Web Development And Programming**
+- 🌱 I’m currently learning **Next Js**
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **osmanrabbi89@gmail.com**
