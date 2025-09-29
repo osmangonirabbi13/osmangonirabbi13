@@ -6,14 +6,14 @@
 
 # 💫 About Me:
 
-As a proficient MERN Stack Developer, I specialize in crafting robust and scalable web applications. My expertise spans across MongoDB, Express.js, React, and Node.js, enabling me to deliver comprehensive full-stack solutions.
+Hi, I’m a passionate Software Developer with expertise in Python, JavaScript, and C++. I love building modern web applications using React.js for interactive user experiences and MongoDB for powerful data management. With a strong problem-solving mindset and a drive to learn new technologies, I focus on creating software solutions that are scalable, reliable, and user-friendly.
 
 ##
 
 - 🔭 I’m currently working on [ eCommerce-Web-App ] - (https://github.com/osmangonirabbi13/eCommerce-Web-App) <br/>
 
-- 🌱 I’m currently learning **Next Js**
-- 💬 Ask me about **Web Development**
+- 🌱 I’m currently learning **Next Js , C++ , Python**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **osmanrabbi89@gmail.com**
 - 📄 Know about my experiences **https://drive.google.com/file/d/10RUv4mZF6oTafmL34Ulxq0ocFlsJfQ83/view?usp=sharing**
