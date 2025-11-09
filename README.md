@@ -42,7 +42,7 @@ Hi, I’m a passionate Software Developer with expertise in **Python** , **JavaS
    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-00758F?style=flat-square&logo=MySQL&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  
 
 </p>
 
