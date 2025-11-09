@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-Hi, I’m a passionate Software Developer with expertise in **Python** , **JavaScript** , and **C++** . I love building modern web applications using React.js for interactive user experiences and MongoDB for powerful data management. With a strong problem-solving mindset and a drive to learn new technologies, I focus on creating software solutions that are scalable, reliable, and user-friendly.
+Hi, I’m a passionate Software Developer with expertise in **Python** , **JavaScript** , and **TypeScript** . I love building modern web applications using React.js for interactive user experiences and MongoDB for powerful data management. With a strong problem-solving mindset and a drive to learn new technologies, I focus on creating software solutions that are scalable, reliable, and user-friendly.
 
 ##
 
