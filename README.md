@@ -12,8 +12,8 @@ Hi, I’m a passionate Software Developer with expertise in **Python** , **JavaS
 
 - 🔭 I’m currently working on [ eCommerce-Web-App ] - (https://github.com/osmangonirabbi13/eCommerce-Web-App) <br/>
 
-- 🌱 I’m currently learning **Next Js , C++ , Python**
-- 💬 Ask me about **Software Development**
+- 🌱 I’m currently learning **Next Js , TypeScript , Python**
+- 💬 Ask me about **Full Stack Developer**
 
 - 📫 How to reach me **osmanrabbi89@gmail.com**
 - 📄 Know about my experiences **https://drive.google.com/file/d/10RUv4mZF6oTafmL34Ulxq0ocFlsJfQ83/view?usp=sharing**
