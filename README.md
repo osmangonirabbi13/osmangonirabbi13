@@ -1,54 +1,97 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Osman Goni Rabbi </h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=osmangonirabbi13) 
 
-# 💫 About Me:
+<h1 align="center">Hi there, fellow developer! 👋</h1> 
 
-Hi, I’m a passionate Software Developer with expertise in **Python** , **JavaScript** , and **TypeScript** . I love building modern web applications using React.js for interactive user experiences and MongoDB for powerful data management. With a strong problem-solving mindset and a drive to learn new technologies, I focus on creating software solutions that are scalable, reliable, and user-friendly.
-
-##
-
-- 🔭 I’m currently working on [ Vehicle Rental Management System (Backend) ] - (https://github.com/osmangonirabbi13/vehicle-rental-system-server) <br/>
-
-- 🌱 I’m currently learning **Next Js , TypeScript , Python**
-- 💬 Ask me about **Full Stack Developer**
-
-- 📫 How to reach me **osmanrabbi89@gmail.com**
-- 📄 Know about my experiences **https://drive.google.com/file/d/10RUv4mZF6oTafmL34Ulxq0ocFlsJfQ83/view?usp=sharing**
-<div>
-  <a href="https://www.linkedin.com/in/md-osman-goni-rabbi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/osmangonirabbi13" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/osman_goni009/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:osmanrabbi89@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/md-osman-goni-rabbi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-osman-goni-rabbi/" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/@osmangonirabbi1/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="https://www.facebook.com/@osmangonirabbi1/" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/osman_goni009/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="https://www.instagram.com/osman_goni009/" height="30" width="40" /></a></p>
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">I'm <span>Osman Goni Rabbi</span> • Full Stack Engineer, Cloud Architect & DevOps Enthusiast from Bangladesh 🇧🇩</h3>
 
 <p align="left">
- 
-<img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img alt="typescript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-<img alt="expressjs" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-<img alt="postgresql" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-<img alt="firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
- <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img alt="tailwindcss" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+Welcome to my GitHub! I’m a passionate Full Stack Engineer and DevOps professional, building scalable, production-ready applications and cloud-native solutions. My expertise spans <strong>React, TypeScript, Node.js, Docker, AWS, CI/CD, and microservices architecture</strong>.
 
-  
-
+I focus on solving real-world problems with clean code, scalable design, and cost-efficient cloud solutions. From video streaming platforms to containerized microservices, I enjoy tackling complex technical challenges and building systems that scale.
 </p>
+
+
+## Connect with me
+<a href="https://osmangonirabbi.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-37BEFF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/md-osman-goni-rabbi/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:osmanrabbi89@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://x.com/osman_rabbi09" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+
+### Projects
+
+| Name       | Description                                              |  Project Link             |
+|------------|----------------------------------------------------------|------------------|
+| Hotel Booking Backend  | A scalable and production-ready REST API for a hotel booking system built with Node.js, Express, TypeScript, and Prisma ORM. | [Github](https://github.com/osmangonirabbi13/hotel-booking-backend)       |
+| Hotel Booking Frontend  | A modern and responsive hotel booking web application built with Next.js, TypeScript, and React Query. | [Github](https://github.com/osmangonirabbi13/hotel-booking-frontend)       |
+| Medi Store   | A modern full-stack pharmacy e-commerce platform built with Next.js, Node.js, Express, Prisma, and PostgreSQL.. | [Github](https://github.com/osmangonirabbi13/medistore-frontend)       |
+| Medi Store Backend   | A modern full-stack pharmacy e-commerce platform built with Next.js, Node.js, Express, Prisma, and PostgreSQL.| [Github](https://github.com/osmangonirabbi13/medistore-server)       |
+    
+### Cloud, DevOps and Testing
+
+![AWS Badge](https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=black) &nbsp; 
+![Nginx Badge](https://img.shields.io/badge/Nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=black) &nbsp; 
+![Docker Badge](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black) &nbsp; 
+
+
+### Database
+
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) &nbsp; 
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black) &nbsp; 
+![Static Badge](https://img.shields.io/badge/Redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=black)&nbsp;
+![Prisma Badge](https://img.shields.io/badge/prisma-%232D3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=black) &nbsp; 
+
+
+
+### Programming Languages
+
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=black) &nbsp; 
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F) &nbsp; 
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6) &nbsp; 
+![Go Badge](https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=black) &nbsp; 
+![Python Badge](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white&labelColor=black)
+
+
+### Frontend
+
+![Next.js Badge](https://img.shields.io/badge/Next%20Js-%23000000?style=for-the-badge&logo=nextdotjs&labelColor=black&color=black) &nbsp; 
+![React Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&labelColor=black) &nbsp; 
+![Redux Badge](https://img.shields.io/badge/Redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=white&color=%23764ABC) &nbsp; 
+![Axios Badge](https://img.shields.io/badge/Axios-%235A29E4?style=for-the-badge&logo=axios&logoColor=white&labelColor=black) &nbsp; 
+![React Query Badge](https://img.shields.io/badge/React%20Query-%23FF4154?style=for-the-badge&logo=reactquery&logoColor=white&labelColor=black) &nbsp; 
+![Tailwind Badge](https://img.shields.io/badge/Tailwind-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![Shadcn UI Badge](https://img.shields.io/badge/shadcn--UI-%23FF6B6B?style=for-the-badge&logo=react&logoColor=white&labelColor=black) &nbsp;
+![Firebase Badge](https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=black) &nbsp;
+
+
+### Backend 
+
+![Node.js Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A) &nbsp; 
+![Express.js Badge](https://img.shields.io/badge/Express%20JS-%23000000?style=for-the-badge&logo=express&labelColor=black&color=black) &nbsp;
+![Socket.io Badge](https://img.shields.io/badge/Socket%20io-%23010101?style=for-the-badge&logo=socketdotio&logoColor=white&labelColor=black) &nbsp;
+![JWT Badge](https://img.shields.io/badge/JWT-%23000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=black) &nbsp; 
+![ZOD Badge](https://img.shields.io/badge/ZOD-%233E67B1?style=for-the-badge&logo=zod&logoColor=white&labelColor=black)
+
+### Tools and others
+
+
+[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#) &nbsp; ![VS Code Badge](https://img.shields.io/badge/VS%20CODE-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=black)&nbsp;![Postman Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=black) &nbsp; ![Figma Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=black) &nbsp; ![Static Badge](https://img.shields.io/badge/Chrome-%234285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=black) &nbsp; ![Static Badge](https://img.shields.io/badge/Edge-%230078D7?style=for-the-badge&logo=microsoftedge&logoColor=white&labelColor=black) &nbsp;![Static Badge](https://img.shields.io/badge/Firefox-%23FF7139?style=for-the-badge&logo=firefox&logoColor=white&labelColor=black)
+
+
 
 
 ### 🚀 Quick Stats
@@ -59,28 +102,4 @@ Hi, I’m a passionate Software Developer with expertise in **Python** , **JavaS
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=osmangonirabbi13&theme=react&card_width=450&card_height=150)](https://git.io/streak-stats)
 </p>
-
-
-
-
-## 🗂️ Highlight Projects
-<a href="https://github.com/osmangonirabbi13/QuickDrop-Courier-client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=osmangonirabbi13&repo=QuickDrop-Courier-client&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="osmangonirabbi13" />
-</a>
-
-<a href="https://github.com/osmangonirabbi13/Osman-Premium-Property-client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=osmangonirabbi13&repo=Osman-Premium-Property-client&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="osmangonirabbi13" />
-</a>
-
-
-
-
-
-
-
-
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=osmangonirabbi13&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
